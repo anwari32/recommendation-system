@@ -1,0 +1,7 @@
+# Rename this file into 'db_config.py'.
+# This file contains database config for 'database.py'.
+
+db_user = "postgres"
+db_password = "root"
+db_host = "winhost" # put host here.
+db_name = "db_fastapi"

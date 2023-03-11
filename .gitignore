@@ -2,3 +2,4 @@ kaggle
 __pycache__
 *.whl
 rawdata
+db_config.py
